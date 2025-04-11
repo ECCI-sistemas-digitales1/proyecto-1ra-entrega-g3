@@ -2,6 +2,8 @@
 # Proyecto - 1ra entrega
 
 ## Integrantes
-
+Cristian andres Quintero Rodriguez 112281
+Juan David Santoyo Tejada 118849
 
 ## Documentación
+![PRESENTACION]()
