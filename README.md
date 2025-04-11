@@ -6,4 +6,4 @@ Cristian andres Quintero Rodriguez 112281
 Juan David Santoyo Tejada 118849
 
 ## Documentación
-![PRESENTACION]()
+![PRESENTACION](/Presentacion_Juan_y_Cristian.pdf)
